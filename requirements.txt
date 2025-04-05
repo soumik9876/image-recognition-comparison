@@ -1,0 +1,11 @@
+notebook
+voila
+ipywidgets
+numpy
+matplotlib
+plotly
+opencv-python
+scikit-image
+pandas
+seaborn
+scikit-learn
